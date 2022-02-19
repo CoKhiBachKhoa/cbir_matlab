@@ -1,6 +1,6 @@
 # Content-based Image Retrieval System Matlab
 
-##About the project
+## About the project
 
 ## Usage
 * `extract_feature.m` : Extracting feature vector of image database into a `dataset.m` file, histogram intersection already in this
@@ -30,7 +30,8 @@ query_colorCorrelogram.m('image.orig/put-image-here.jpg');
 
 You need to extract the feature whether the image in database or query, its must be in the `dataset.mat`. Then just go a head run some `.m` file with input an image
 <p align="right">(<a href="#top">back to top</a>)</p>
-::
+
+
 ## Contact
 Email: `thanhmai99bn@gmail.com`
 
